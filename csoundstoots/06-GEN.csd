@@ -1,4 +1,4 @@
-; Some GENs.
+; Generating various shapes using GEN10.
 <CsoundSynthesizer>
 <CsOptions>
 </CsOptions>
